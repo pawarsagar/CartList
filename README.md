@@ -10,6 +10,5 @@
 `npm run json-server-start`
 5. run development server  
 `npm run dev`
-6. browse to `http://localhost:9000`
-### Production build
+
 
