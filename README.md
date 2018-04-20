@@ -1,7 +1,5 @@
-# Cart example
 
-## Get started
-### Development
+### Steps to Install
 1. Clone the repo  
 `git clone https://github.com/pawarsagar/CartList.git`
 2. Go to the repo  
